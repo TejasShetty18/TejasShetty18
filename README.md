@@ -1,7 +1,7 @@
 
 
 [![MasterHead]
-C:\Users\Tejas shetty\Desktop\imp document\animephoto\mern.jpeg
+(https://www.bing.com/images/search?view=detailV2&ccid=Zrg%2BNB8s&id=3E8BBC0284C87AFBDB09E064C076E2FE3E7B78F4&thid=OIP.Zrg-NB8s_mcxkl-NgCZs2AHaEK&mediaurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp8904080.jpg&exph=1080&expw=1920&q=full+stack+mern+Developer+wallpaper&simid=607988295444212423&form=IRPRST&ck=2C2274C8CF1B01989AB1919BAB9A7BC5&selectedindex=0&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11)
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">Currently Pursuing MCA</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
