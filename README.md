@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)(https://www.ekascloud.com/public/uploads/img/product/img5571e361a96c3b8339398ec0f99b2a92.png)
+[![MasterHead](https://www.ekascloud.com/public/uploads/img/product/img5571e361a96c3b8339398ec0f99b2a92.png)
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">Currently Doing an Internship in Gangalia technology</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
