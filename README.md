@@ -1,9 +1,9 @@
 
 
-[![MasterHead]
-(https://www.bing.com/images/search?view=detailV2&ccid=Zrg%2BNB8s&id=3E8BBC0284C87AFBDB09E064C076E2FE3E7B78F4&thid=OIP.Zrg-NB8s_mcxkl-NgCZs2AHaEK&mediaurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp8904080.jpg&exph=1080&expw=1920&q=full+stack+mern+Developer+wallpaper&simid=607988295444212423&form=IRPRST&ck=2C2274C8CF1B01989AB1919BAB9A7BC5&selectedindex=0&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11)
+![Alt text]([https://www.example.com/image.jpg](https://www.bing.com/images/search?view=detailV2&ccid=pyxCcpr2&id=583FBD813100FFC34E04BC5AD5CB1CDC7C799F7B&thid=OIP.pyxCcpr2wvmPLTPn-KgAHgHaEZ&mediaurl=https%3A%2F%2Fwww.ekascloud.com%2Fpublic%2Fuploads%2Fimg%2Fnews%2Fimg3bed0d3ab6c2df10ec9d96aea1970e9c.png&exph=440&expw=740&q=Mern+Stack+Web+Developer&simid=608046848708319373&form=IRPRST&ck=3B765F4285F4DCBAD29BB3EED6E576BB&selectedindex=3&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11&pivotparams=insightsToken%3Dccid_oRHznAzV*cp_1A83A166DF0907D4F582BEF51084A5C2*mid_2FB9F8E17971C5F7FF0FE188EA6F60B353B38A22*simid_608012549118451780*thid_OIP.oRHznAzVUpM1TXoWzRgbhAHaEZ&iss=VSI&ajaxhist=0&ajaxserp=0))
+<img src="[https://www.example.com/image.jpg" alt="Alt text](https://www.bing.com/images/search?view=detailV2&ccid=pyxCcpr2&id=583FBD813100FFC34E04BC5AD5CB1CDC7C799F7B&thid=OIP.pyxCcpr2wvmPLTPn-KgAHgHaEZ&mediaurl=https%3A%2F%2Fwww.ekascloud.com%2Fpublic%2Fuploads%2Fimg%2Fnews%2Fimg3bed0d3ab6c2df10ec9d96aea1970e9c.png&exph=440&expw=740&q=Mern+Stack+Web+Developer&simid=608046848708319373&form=IRPRST&ck=3B765F4285F4DCBAD29BB3EED6E576BB&selectedindex=3&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11&pivotparams=insightsToken%3Dccid_oRHznAzV*cp_1A83A166DF0907D4F582BEF51084A5C2*mid_2FB9F8E17971C5F7FF0FE188EA6F60B353B38A22*simid_608012549118451780*thid_OIP.oRHznAzVUpM1TXoWzRgbhAHaEZ&iss=VSI&ajaxhist=0&ajaxserp=0)">
 <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">Currently Pursuing MCA</h3>
+<h3 align="center">Currently Doing an Internship in Gangalia technology</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasshetty18" alt="tejasshetty18" /></a> </p>
 
-- 🔭 I’m currently working on **My Blog**
+- 🔭 I’m currently working on **Medical Log BOOK**
 
 - 🌱 I’m currently learning **React,android,flutter**
 
-- 💬 Ask me about **Java,Python**
+- 💬 Ask me about **Java,Python,C++**
 
 - 📫 How to reach me **tejasshetty729@gmail.com**
 
